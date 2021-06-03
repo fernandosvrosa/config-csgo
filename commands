@@ -1,0 +1,2 @@
+-novid -nojoy -refresh 165 -freq 165 +cl_forcepreload 1 -noubershader -fps_max 0 -high +mat_disable_fancy_blending 1 -r_dynamic 0 +mat_queue_mode 2
+ 

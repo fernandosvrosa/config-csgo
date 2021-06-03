@@ -1,1 +1,1 @@
-# config-csgo
+# CFG e Comando para CSGO
